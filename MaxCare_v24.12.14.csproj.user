@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="A1276B03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A3202D8D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A38C25A7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A4A71789.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A52F8229.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A6AEB23C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A6BA4B90.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AA365D0E.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AAADE329.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AAB8AA14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AD243E2E.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AE162A09.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AF9E4E34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B0835B0A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B2312C9C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B314B89F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B4A88A90.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B586A01D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B5B56C91.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B7360A13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BA26EC99.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BABC2880.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BD963B00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BF16B7AA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BF19FE85.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C3079B9D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C4B7D633.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C5214BA0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C620FC22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C69E6685.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C991D19B.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CAB700BC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CB1D4BA7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CD84E32C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CDB179A2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CF12C821.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D0129A91.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D13EC30C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D282E117.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D82E829C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D838A727.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="D9AAEB9A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DA0D4B0D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DA3DAB8C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DB117FB8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DBA4A1B0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DC9EAA81.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E3962B82.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E6183B02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E62E1719.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E9397B88.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EB3B3C1A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ECB7C52A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EF90CFAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EFBBE9AB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="F31742AD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="F49201A9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F78F2213.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fActive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAutoChrome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FB245815.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhBackupGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhDebug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhDomainGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhGetPageProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhHotmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhKhoiPhucMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhKhoiPhucTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhTaiAnhTuNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhTaoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCauHinhTaoShortcut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fChiTietBaiViet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fChonBaiViet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fChonKichBan2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fChonThuMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fClearBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FD08DB8D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FDAEA09A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDanhSachKichBan_Old.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDownloadAvatar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fGiaiPhongDungLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDBaiVietNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDBuffFollowLikePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDBuffLikeComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDBuffTinNhanProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDChangeSoThich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDChangeTenPhu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDChaySeeding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDChocBanBe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDChucMungSinhNhat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDCongKhaiBaiVietGanThe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangBai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangReel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangStatusV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDangXuatThietBiCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDanhGiaPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDocThongBao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDDoiTen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDGiaiCheckpoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDHuyLienKetInstagram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDHuyLikePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDHuyLoiMoiKetBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanNewfeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanTepUid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanThanhVienNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanVip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanVoiBanBeCuaUid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKetBanVoiBanCuaBanBe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKhangSpam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDKichHoatPageVhh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDLoginMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDMoiBanBeVaoNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDReportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDRoiNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDScriptGemLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDShareBaiTut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDSharePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDTruyCapWebsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDTuongTacBaiVietTuKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDTuongTacNhomv2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXacNhanKetBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXemStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXemWatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXoaNhatKyHoatDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXoaSdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXoaThietBiTinCay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHDXoaTinNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHelpNhapComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fImportProxy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fImportUseragent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fIntro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLocTheoDanhSachUid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMoTrinhDuyet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhapCookieTrungGian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhapDuLieu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhapDuLieu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhapDuLieu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhapMailAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fQuanLyNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fQuanLyTinNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fShowProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaBaiViet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaChuDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTemplateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemChuDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemHanhDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemKichBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchCheckImapHotmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchCheckLiveUid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchCheckProxy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchCheckStatusXProxy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchCheckTinsoft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchFindIdFb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTienIchHotmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateData2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewChrome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GClass14.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GClass15.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GControl0.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucContact.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucContact2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucInputCheckbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucInputFilePath.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucInputJson.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucInputNumber.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucInputText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucThemHanhDong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTuongTacBaiViet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTuongTacReel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+costura.bouncycastle.cryptography.dll.compressed|2.0.0.0|BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938|BouncyCastle.Cryptography.dll|3F56BC9B78F64E9A0202955D8ACA5CB07F07E06F|6867224
+costura.bunifu_ui_v1.52.dll.compressed|1.3.0.0|Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null|Bunifu_UI_v1.52.dll|E8D2771A4891AD7B751C4AC153F599D7D58EBD31|225792
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.entityframework.dll.compressed|6.0.0.0|EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|EntityFramework.dll|123FE310D1D035932B65FAC5006209C4DCD692BF|5225168
+costura.entityframework.sqlserver.dll.compressed|6.0.0.0|EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|EntityFramework.SqlServer.dll|9D8CF03893AAF9807F993F48554921AFA081859F|622288
+costura.google.protobuf.dll.compressed|3.21.9.0|Google.Protobuf, Version=3.21.9.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604|Google.Protobuf.dll|3C867A7A5274F0CE9285C2C357A6602B7F360A17|410904
+costura.google.protobuf.pdb.compressed|||Google.Protobuf.pdb|196A77D254DBC489AFB69323E9445B2276E8A0BA|161420
+costura.http.dll.compressed|1.0.0.0|Http, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Http.dll|5308277115D47FF156851F281F3C3C5D24A50981|33280
+costura.k4os.compression.lz4.dll.compressed|1.3.5.0|K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d|K4os.Compression.LZ4.dll|CC9FA50E441BFABA51462D872F530E2C01AF0DDF|67072
+costura.k4os.compression.lz4.streams.dll.compressed|1.3.5.0|K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d|K4os.Compression.LZ4.Streams.dll|597B3C61424BFC46BA16F6BDA01B8BAE844A39F7|74240
+costura.k4os.hash.xxhash.dll.compressed|1.0.8.0|K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3|K4os.Hash.xxHash.dll|31BC60903D60CDEC565C6CFF6A8FF4B1EB609D7D|13312
+costura.mailkit.dll.compressed|2.15.0.0|MailKit, Version=2.15.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b|MailKit.dll|2EF713F0CD77FBDDF73C74162F92CC9F69BDC5D8|845824
+costura.managedwinapi.dll.compressed|0.3.0.0|ManagedWinapi, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null|ManagedWinapi.dll|FDE804FB088D2AE82B05515E8860A6879F0EADEE|110592
+costura.microsoft.bcl.asyncinterfaces.dll.compressed|8.0.0.0|Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|Microsoft.Bcl.AsyncInterfaces.dll|74DC07A8CCCEE0CA3BF5CF64320230CA1A37AD85|26904
+costura.mimekit.dll.compressed|2.15.0.0|MimeKit, Version=2.15.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814|MimeKit.dll|1B1C4437519E59617CA3EC4582B7E28B2943FF79|1020416
+costura.newtonsoft.json.dll.compressed|12.0.0.0|Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|1248142EB45EED3BEB0D9A2D3B8BED5FE2569B10|700336
+costura.newtonsoft.json.pdb.compressed|||Newtonsoft.Json.pdb|C69442ABD1A9476E2BFDDC25DD128E41BD75B738|250244
+costura.system.buffers.dll.compressed|4.0.3.0|System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Buffers.dll|2F410A0396BC148ED533AD49B6415FB58DD4D641|20856
+costura.system.configuration.configurationmanager.dll.compressed|4.0.0.0|System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Configuration.ConfigurationManager.dll|B31F97AE1DCA5FA25A475E3BBCB84F1EA44A9397|91928
+costura.system.data.sqlite.dll.compressed|1.0.110.0|System.Data.SQLite, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139|System.Data.SQLite.dll|CE229571D3AF05E890D5782FF0647A11B644C45C|352256
+costura.system.data.sqlite.ef6.dll.compressed|1.0.110.0|System.Data.SQLite.EF6, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139|System.Data.SQLite.EF6.dll|A7291CFFDB0A814731E7C6306124D154CD7763A2|184832
+costura.system.data.sqlite.linq.dll.compressed|1.0.110.0|System.Data.SQLite.Linq, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139|System.Data.SQLite.Linq.dll|2938CF0C2455C3FA9E5D347C89E360CB0250EDAB|184832
+costura.system.diagnostics.diagnosticsource.dll.compressed|7.0.0.2|System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|030BBD6D404138A5DE6AD850269985372C89D9EB|173232
+costura.system.formats.asn1.dll.compressed|8.0.0.1|System.Formats.Asn1, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Formats.Asn1.dll|511DECD0525EC9CC26F33AF6CA9A3A0F0C948057|105232
+costura.system.io.pipelines.dll.compressed|5.0.0.2|System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.IO.Pipelines.dll|F958C517D41679230D2F3193F11E86423E68C847|72592
+costura.system.memory.dll.compressed|4.0.1.2|System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Memory.dll|3C5C5DF5F8F8DB3F0A35C5ED8D357313A54E3CDE|142240
+costura.system.numerics.vectors.dll.compressed|4.1.4.0|System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Numerics.Vectors.dll|3D216458740AD5CB05BC5F7C3491CDE44A1E5DF0|115856
+costura.system.runtime.compilerservices.unsafe.dll.compressed|6.0.0.0|System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.CompilerServices.Unsafe.dll|180A7BAAFBC820A838BBACA434032D9D33CCEEBE|18024
+costura.system.threading.tasks.extensions.dll.compressed|4.2.0.1|System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Threading.Tasks.Extensions.dll|2242627282F9E07E37B274EA36FAC2D3CD9C9110|25984
+costura.system.valuetuple.dll.compressed|4.0.3.0|System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.ValueTuple.dll|D1664731719E85AAD7A2273685D77FEB0204EC98|25232
+costura.webdriver.dll.compressed|3.141.0.0|WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null|WebDriver.dll|066B9BCBAADE014D100E8077124EE6152B233615|1783808
+costura.webdriver.support.dll.compressed|3.141.0.0|WebDriver.Support, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null|WebDriver.Support.dll|2906B5B1FA6E07585735749CECC9273C08BF56C8|52224
+costura.webdrivermanager.dll.compressed|1.0.0.0|WebDriverManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|WebDriverManager.dll|B963B2B8E6099618046FB7B2A9173B46B6817892|24064
+costura.xnet.dll.compressed|3.3.3.0|xNet, Version=3.3.3.0, Culture=neutral, PublicKeyToken=null|xNet.dll|7C807599C885109C3108E491AF19C499F0B3C378|113152
+costura.zstdsharp.dll.compressed|0.7.1.0|ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf|ZstdSharp.dll|5B37A6004FB20C9D485E9664A4797AF63E9DDF70|437248
