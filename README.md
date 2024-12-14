@@ -1,0 +1,4 @@
+# FULL SOUCRE MAXCARE FREE
+LƯU Ý: SOUCRE NÀY VỚI MỤC ĐÍCH THAM KHẢO KHÔNG ĐƯỢC SỬ DỤNG VỚI MỤC ĐÍCH VI PHẠM PHÁP LUẬT HOẶC ĐEM BÁN 
+- NẾU NHƯ PHÁT HIỆN TRƯỜNG HỢP VI PHẠM PHÁP LUẬT THÌ TỰ CHỊU TRÁCH NHIỆM VỚI HÀNH VI CỦA MÌNH TRƯỚC PHÁP LUẬT.
+- GROUP: https://t.me/toolsgiare
